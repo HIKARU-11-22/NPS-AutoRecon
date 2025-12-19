@@ -1,6 +1,6 @@
 # Auto Reconciliation System (Python)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a **Python-based Auto Reconciliation Program** developed to support the reconciliation process within the company I am currently working with.  
 Although I am **not part of the core technical team**, this project was independently designed and implemented to improve efficiency, accuracy, and automation in reconciliation tasks.
@@ -9,7 +9,7 @@ The primary goal of this system is to **automate manual reconciliation activitie
 
 ---
 
-## 🚀 Features
+## Features
 
 - Automated reconciliation between multiple data sources  
 - Handles large datasets efficiently  
@@ -20,7 +20,7 @@ The primary goal of this system is to **automate manual reconciliation activitie
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas** – for data processing and comparison  
